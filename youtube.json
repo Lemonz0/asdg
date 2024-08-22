@@ -16,6 +16,7 @@
         "bundleIdentifier": "com.example.myapp",
         "developerName": "Example Developer",
         "subtitle": "An awesome app.",
+        "marketplaceID": "2154",
         "localizedDescription": "This is an awesome app only available on AltStore.",
         "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
         "tintColor": "#5CA399",
